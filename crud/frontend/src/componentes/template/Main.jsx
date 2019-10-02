@@ -2,6 +2,7 @@ import "./Main.css"
 import React from "react"
 
 import Header from "./Header"
+import Cadastro from "../cadastro/Cadastro"
 
 
 export default props =>
@@ -12,4 +13,5 @@ export default props =>
             {props.children}
         </div>
     </main>
+    
 </React.Fragment>

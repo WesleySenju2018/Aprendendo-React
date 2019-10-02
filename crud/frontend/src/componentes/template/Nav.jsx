@@ -11,5 +11,8 @@ export default props =>
             <Link to="/users">
                 <i className="fa fa-users"></i>Usuarios
              </Link>
+             <Link to="/cadastro">
+                 <i className="fa fa-register"></i>Cadastro
+             </Link>
         </nav>
     </aside> 

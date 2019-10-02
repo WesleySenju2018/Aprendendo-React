@@ -1,12 +1,14 @@
 aside.menu-area {
     background-color: rgb(166, 93, 180);
-    box-shadow: 2px 0 10px 0 rgb(160, 75, 153), 2px 0 15px 0 rgb(163, 129, 170);
+    /* box-shadow: 2px 0 10px 0 rgb(160, 75, 153), 2px 0 15px 0 rgb(163, 129, 170); */
 }
+
+
 
 .menu a {
     display: block;
     text-decoration: none;
-    font-weight: 300;
+    font-weight: 400;
     color: #fff;
     padding: 15px;
 }

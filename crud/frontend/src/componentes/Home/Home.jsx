@@ -8,4 +8,4 @@ subtitle="Segundo projeto do capitulo.">
     <hr />
     <p className="mb.0">Sistema para exemplificar a construção de um cadastro em React.</p>
     <hr />
-    </Main>
+</Main>
